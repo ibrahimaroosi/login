@@ -1,0 +1,25 @@
+h1 {
+    font-weight: bold;
+    text-decoration: silver dotted;
+    color: silver;
+    padding: 0.2em;
+    border: ridge;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+body {
+    color: white;
+    font-size: 16px;
+    background:
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("bgimage2.jpg");
+    background-size: cover;
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+    text-align: center;
+    line-height: 28px;
+    
+}
+.button {
+    font-weight: bold;
+}
